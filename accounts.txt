@@ -1,0 +1,55 @@
+{
+    login : 123
+    password : 123
+    balance : 444.000000
+}
+{
+    login : hinkal555
+    password : hinkal555
+    balance : 210.000000
+}
+{
+    login : killer
+    password : killer
+    balance : 10.000000
+}
+{
+    login : q
+    password : q
+    balance : 33.000000
+}
+{
+    login : sandali
+    password : sandali
+    balance : 3510.000000
+}
+{
+    login : test
+    password : test
+    balance : 1972.500000
+}
+{
+    login : testdouble
+    password : double
+    balance : 10.000000
+}
+{
+    login : testing
+    password : testing
+    balance : 54.000000
+}
+{
+    login : testnew
+    password : testnew
+    balance : 0.000000
+}
+{
+    login : user
+    password : user
+    balance : 20.000000
+}
+{
+    login : yanix
+    password : trap
+    balance : 83.000000
+}

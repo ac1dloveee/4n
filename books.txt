@@ -1,0 +1,36 @@
+{
+    name : ONO
+    genre : Horror
+    price : 26.000000
+    amount : 32
+}
+{
+    name : With You
+    genre : Psychological Novels
+    price : 12.000000
+    amount : 10
+}
+{
+    name : One Meter Apart
+    genre : Romantic
+    price : 14.000000
+    amount : 14
+}
+{
+    name : Trolls
+    genre : Comedy
+    price : 7.500000
+    amount : 5
+}
+{
+    name : 1984
+    genre : Novel
+    price : 12.000000
+    amount : 32
+}
+{
+    name : Bad King
+    genre : Fantasy
+    price : 8.000000
+    amount : 15
+}
